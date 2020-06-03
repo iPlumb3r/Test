@@ -1,4 +1,2 @@
-Read Me
-==
-
+# Read Me
 Repository dedicated to Git functions testing ...
